@@ -1,0 +1,18 @@
+{
+  "name": "grunt-force",
+  "version": "1.0.0",
+  "description": "The stupid force-flag toggler.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shannonmoeller/grunt-force"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Shannon Moeller <me@shannonmoeller.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shannonmoeller/grunt-force/issues"
+  },
+  "homepage": "https://github.com/shannonmoeller/grunt-force"
+}
