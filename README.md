@@ -18,15 +18,17 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-force');
 ```
 
-## `force:on` task
+## Tasks
+
+### `force:on`
 
 Sets the `force` option to `true`.
 
-## `force:off` task
+### `force:off`
 
 Sets the `force` option to `false`.
 
-## `force` or `force:reset` task
+### `force` or `force:reset`
 
 Sets the `force` option back to its original value. Defaults to `false`, but would be `true` if Grunt was executed with the `--force` flag.
 
