@@ -1,6 +1,6 @@
 # grunt-force
 
-[![NPM version][npm-img]][npm-url] [![Downloads][downloads-img]][npm-url] [![Chat][gitter-img]][gitter-url]
+[![NPM version][npm-img]][npm-url] [![Downloads][downloads-img]][npm-url]
 
 The stupid force-flag toggler.
 
@@ -61,8 +61,6 @@ Standards for this project, including tests, code coverage, and semantics are en
 Licensed under [MIT](http://shannonmoeller.com/mit.txt)
 
 [downloads-img]: http://img.shields.io/npm/dm/grunt-force.svg?style=flat-square
-[gitter-img]:    http://img.shields.io/badge/gitter-join_chat-1dce73.svg?style=flat-square
-[gitter-url]:    https://gitter.im/shannonmoeller/grunt-force
 [gittip-img]:    http://img.shields.io/gittip/shannonmoeller.svg?style=flat-square
 [gittip-url]:    https://www.gittip.com/shannonmoeller
 [npm-img]:       http://img.shields.io/npm/v/grunt-force.svg?style=flat-square
